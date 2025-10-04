@@ -1,0 +1,15 @@
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Exercicios\Structs__Vs__Classes\bin\Debug\net9.0\Structs__Vs__Classes.exe
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Exercicios\Structs__Vs__Classes\bin\Debug\net9.0\Structs__Vs__Classes.deps.json
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Exercicios\Structs__Vs__Classes\bin\Debug\net9.0\Structs__Vs__Classes.runtimeconfig.json
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Exercicios\Structs__Vs__Classes\bin\Debug\net9.0\Structs__Vs__Classes.dll
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Exercicios\Structs__Vs__Classes\bin\Debug\net9.0\Structs__Vs__Classes.pdb
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Exercicios\Structs__Vs__Classes\obj\Debug\net9.0\Structs__Vs__Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Exercicios\Structs__Vs__Classes\obj\Debug\net9.0\Structs__Vs__Classes.AssemblyInfoInputs.cache
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Exercicios\Structs__Vs__Classes\obj\Debug\net9.0\Structs__Vs__Classes.AssemblyInfo.cs
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Exercicios\Structs__Vs__Classes\obj\Debug\net9.0\Structs__Vs__Classes.csproj.CoreCompileInputs.cache
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Exercicios\Structs__Vs__Classes\obj\Debug\net9.0\Structs__Vs__Classes.sourcelink.json
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Exercicios\Structs__Vs__Classes\obj\Debug\net9.0\Structs__Vs__Classes.dll
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Exercicios\Structs__Vs__Classes\obj\Debug\net9.0\refint\Structs__Vs__Classes.dll
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Exercicios\Structs__Vs__Classes\obj\Debug\net9.0\Structs__Vs__Classes.pdb
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Exercicios\Structs__Vs__Classes\obj\Debug\net9.0\Structs__Vs__Classes.genruntimeconfig.cache
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Exercicios\Structs__Vs__Classes\obj\Debug\net9.0\ref\Structs__Vs__Classes.dll

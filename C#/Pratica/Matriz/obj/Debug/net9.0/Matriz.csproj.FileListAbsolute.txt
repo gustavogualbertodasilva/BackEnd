@@ -1,0 +1,15 @@
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Pratica\Matriz\bin\Debug\net9.0\Matriz.exe
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Pratica\Matriz\bin\Debug\net9.0\Matriz.deps.json
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Pratica\Matriz\bin\Debug\net9.0\Matriz.runtimeconfig.json
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Pratica\Matriz\bin\Debug\net9.0\Matriz.dll
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Pratica\Matriz\bin\Debug\net9.0\Matriz.pdb
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Pratica\Matriz\obj\Debug\net9.0\Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Pratica\Matriz\obj\Debug\net9.0\Matriz.AssemblyInfoInputs.cache
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Pratica\Matriz\obj\Debug\net9.0\Matriz.AssemblyInfo.cs
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Pratica\Matriz\obj\Debug\net9.0\Matriz.csproj.CoreCompileInputs.cache
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Pratica\Matriz\obj\Debug\net9.0\Matriz.sourcelink.json
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Pratica\Matriz\obj\Debug\net9.0\Matriz.dll
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Pratica\Matriz\obj\Debug\net9.0\refint\Matriz.dll
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Pratica\Matriz\obj\Debug\net9.0\Matriz.pdb
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Pratica\Matriz\obj\Debug\net9.0\Matriz.genruntimeconfig.cache
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Pratica\Matriz\obj\Debug\net9.0\ref\Matriz.dll

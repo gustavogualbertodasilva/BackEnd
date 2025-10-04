@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Gerador De Numeros Primos/1.0.0": {
+        "runtime": {
+          "Gerador De Numeros Primos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gerador De Numeros Primos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

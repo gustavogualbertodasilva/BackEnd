@@ -1,0 +1,111 @@
+✔️ 1. FUNDAMENTOS DO C# — COMPLETO
+
+(✅) Sintaxe básica — Concluído
+
+(✅) Conversão de tipos — Concluído
+
+(✅) Controle de fluxo — Concluído
+
+(✅) Métodos e retorno de valores — Concluído
+
+(✅) Manipulação de strings — Concluído
+
+(✅) Arrays e coleções — Concluído
+
+(✅) Tratamento de exceções — Concluído
+
+
+🟩 2. PROGRAMAÇÃO ORIENTADA A OBJETOS (POO)
+
+(✅) Classes e Objetos — Concluído
+
+(✅) Construtores e Sobrecarga de Métodos — Concluído
+
+(✅) Encapsulamento (private, protected, internal, public) — Concluído
+
+(✅) Propriedades (get e set, auto-properties) — Concluído
+
+(✅) Herança e Polimorfismo (virtual, override, base) — Concluído
+
+(✅) Interfaces e Abstração (interface, abstract class) — Em andamento
+
+(✅) sealed, readonly, const, static, this, new
+
+
+( ) 3. MANIPULAÇÃO AVANÇADA DE DADOS
+
+(✅) Structs vs Classes (tipos por valor vs referência)
+
+(✅) Enumerações (enum)
+
+(🟡) Tuplas ((int, string) resultado = (1, "Sucesso"))
+
+(❌) Métodos de Extensão
+
+(❌) Nullable Types (int?, double?, Nullable<T>)
+
+(❌) Operadores Null-Coalescing (??, ??=, ?.)
+
+
+( ) 4. COLEÇÕES E LINQ
+
+(❌) List<T>, Dictionary<K, V>, HashSet<T>, SortedList<T>
+
+(❌) Iteradores (yield return)
+
+(❌) LINQ Básico (Where, Select, OrderBy, GroupBy)
+
+(❌) LINQ Avançado (Join, Aggregate, Any, All, FirstOrDefault)
+
+
+( ) 5. MANIPULAÇÃO DE ARQUIVOS E FLUXOS DE DADOS
+
+(❌) System.IO.File, FileStream, StreamReader, StreamWriter
+
+(❌) Leitura e Escrita de Arquivos de Texto e Binários
+
+(❌) Serialização e Desserialização (JSON e XML)
+
+
+( ) 6. DELEGATES, EVENTOS E EXPRESSÕES LAMBDA
+
+(❌) Delegates (delegate, Action<T>, Func<T>, Predicate<T>)
+
+(❌) Eventos (event, EventHandler, EventArgs)
+
+(❌) Expressões Lambda (x => x * 2)
+
+
+( ) 7. PROGRAMAÇÃO ASSÍNCRONA E PARALELA
+
+(❌) async e await
+
+(❌) Task<T> e Task.Run
+
+(❌) Parallel.ForEach, Parallel.Invoke
+
+(❌) lock, SemaphoreSlim, Monitor
+
+
+( ) 8. MEMÓRIA E PERFORMANCE
+
+(❌) Garbage Collector (GC.Collect(), IDisposable)
+
+(❌) using para liberar recursos automaticamente
+
+(❌) Span<T> e Memory<T> para otimização de memória
+
+(❌) ref e out para passar argumentos por referência
+
+
+( ) 9. RECURSOS AVANÇADOS
+
+(❌) Reflection (typeof, Assembly.GetType, Activator.CreateInstance)
+
+(❌) dynamic e ExpandoObject
+
+(❌) unsafe e Ponteiros (fixed, stackalloc)
+
+(❌) Código Gerenciado vs Não Gerenciado
+
+(❌) Gerenciamento de Recursos com IDisposable

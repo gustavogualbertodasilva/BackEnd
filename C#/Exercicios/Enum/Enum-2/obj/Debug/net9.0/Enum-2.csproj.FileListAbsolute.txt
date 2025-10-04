@@ -1,0 +1,15 @@
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Exercicios\Enum\Enum-2\obj\Debug\net9.0\Enum-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Exercicios\Enum\Enum-2\obj\Debug\net9.0\Enum-2.AssemblyInfoInputs.cache
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Exercicios\Enum\Enum-2\obj\Debug\net9.0\Enum-2.AssemblyInfo.cs
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Exercicios\Enum\Enum-2\obj\Debug\net9.0\Enum-2.csproj.CoreCompileInputs.cache
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Exercicios\Enum\Enum-2\obj\Debug\net9.0\Enum-2.sourcelink.json
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Exercicios\Enum\Enum-2\bin\Debug\net9.0\Enum-2.exe
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Exercicios\Enum\Enum-2\bin\Debug\net9.0\Enum-2.deps.json
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Exercicios\Enum\Enum-2\bin\Debug\net9.0\Enum-2.runtimeconfig.json
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Exercicios\Enum\Enum-2\bin\Debug\net9.0\Enum-2.dll
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Exercicios\Enum\Enum-2\bin\Debug\net9.0\Enum-2.pdb
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Exercicios\Enum\Enum-2\obj\Debug\net9.0\Enum-2.dll
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Exercicios\Enum\Enum-2\obj\Debug\net9.0\refint\Enum-2.dll
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Exercicios\Enum\Enum-2\obj\Debug\net9.0\Enum-2.pdb
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Exercicios\Enum\Enum-2\obj\Debug\net9.0\Enum-2.genruntimeconfig.cache
+C:\Users\margb\Desktop\Programação estudos\Programacao-estudos\BACK-END\C#\Exercicios\Enum\Enum-2\obj\Debug\net9.0\ref\Enum-2.dll
