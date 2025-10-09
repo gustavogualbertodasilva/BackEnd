@@ -1,0 +1,15 @@
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Exercicios\Tuplas\Tuplas\bin\Debug\net9.0\Tuplas.exe
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Exercicios\Tuplas\Tuplas\bin\Debug\net9.0\Tuplas.deps.json
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Exercicios\Tuplas\Tuplas\bin\Debug\net9.0\Tuplas.runtimeconfig.json
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Exercicios\Tuplas\Tuplas\bin\Debug\net9.0\Tuplas.dll
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Exercicios\Tuplas\Tuplas\bin\Debug\net9.0\Tuplas.pdb
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Exercicios\Tuplas\Tuplas\obj\Debug\net9.0\Tuplas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Exercicios\Tuplas\Tuplas\obj\Debug\net9.0\Tuplas.AssemblyInfoInputs.cache
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Exercicios\Tuplas\Tuplas\obj\Debug\net9.0\Tuplas.AssemblyInfo.cs
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Exercicios\Tuplas\Tuplas\obj\Debug\net9.0\Tuplas.csproj.CoreCompileInputs.cache
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Exercicios\Tuplas\Tuplas\obj\Debug\net9.0\Tuplas.sourcelink.json
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Exercicios\Tuplas\Tuplas\obj\Debug\net9.0\Tuplas.dll
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Exercicios\Tuplas\Tuplas\obj\Debug\net9.0\refint\Tuplas.dll
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Exercicios\Tuplas\Tuplas\obj\Debug\net9.0\Tuplas.pdb
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Exercicios\Tuplas\Tuplas\obj\Debug\net9.0\Tuplas.genruntimeconfig.cache
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Exercicios\Tuplas\Tuplas\obj\Debug\net9.0\ref\Tuplas.dll
