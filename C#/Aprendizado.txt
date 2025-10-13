@@ -38,9 +38,9 @@
 
 (✅) Enumerações (enum)
 
-(🟡) Tuplas ((int, string) resultado = (1, "Sucesso"))
+(✅) Tuplas ((int, string) resultado = (1, "Sucesso"))
 
-(❌) Métodos de Extensão
+(🟡) Métodos de Extensão
 
 (❌) Nullable Types (int?, double?, Nullable<T>)
 
