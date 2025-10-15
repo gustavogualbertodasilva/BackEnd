@@ -1,0 +1,15 @@
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Exercicios\Metodos de Extensao\MetodosDeExtensao\bin\Debug\net9.0\MetodosDeExtensao.exe
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Exercicios\Metodos de Extensao\MetodosDeExtensao\bin\Debug\net9.0\MetodosDeExtensao.deps.json
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Exercicios\Metodos de Extensao\MetodosDeExtensao\bin\Debug\net9.0\MetodosDeExtensao.runtimeconfig.json
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Exercicios\Metodos de Extensao\MetodosDeExtensao\bin\Debug\net9.0\MetodosDeExtensao.dll
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Exercicios\Metodos de Extensao\MetodosDeExtensao\bin\Debug\net9.0\MetodosDeExtensao.pdb
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Exercicios\Metodos de Extensao\MetodosDeExtensao\obj\Debug\net9.0\MetodosDeExtensao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Exercicios\Metodos de Extensao\MetodosDeExtensao\obj\Debug\net9.0\MetodosDeExtensao.AssemblyInfoInputs.cache
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Exercicios\Metodos de Extensao\MetodosDeExtensao\obj\Debug\net9.0\MetodosDeExtensao.AssemblyInfo.cs
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Exercicios\Metodos de Extensao\MetodosDeExtensao\obj\Debug\net9.0\MetodosDeExtensao.csproj.CoreCompileInputs.cache
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Exercicios\Metodos de Extensao\MetodosDeExtensao\obj\Debug\net9.0\MetodosDeExtensao.sourcelink.json
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Exercicios\Metodos de Extensao\MetodosDeExtensao\obj\Debug\net9.0\MetodosDeExtensao.dll
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Exercicios\Metodos de Extensao\MetodosDeExtensao\obj\Debug\net9.0\refint\MetodosDeExtensao.dll
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Exercicios\Metodos de Extensao\MetodosDeExtensao\obj\Debug\net9.0\MetodosDeExtensao.pdb
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Exercicios\Metodos de Extensao\MetodosDeExtensao\obj\Debug\net9.0\MetodosDeExtensao.genruntimeconfig.cache
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Exercicios\Metodos de Extensao\MetodosDeExtensao\obj\Debug\net9.0\ref\MetodosDeExtensao.dll
