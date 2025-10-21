@@ -1,0 +1,15 @@
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Pratica\GerenciadorDeHabitos\bin\Debug\net9.0\GerenciadorDeHabitos.exe
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Pratica\GerenciadorDeHabitos\bin\Debug\net9.0\GerenciadorDeHabitos.deps.json
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Pratica\GerenciadorDeHabitos\bin\Debug\net9.0\GerenciadorDeHabitos.runtimeconfig.json
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Pratica\GerenciadorDeHabitos\bin\Debug\net9.0\GerenciadorDeHabitos.dll
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Pratica\GerenciadorDeHabitos\bin\Debug\net9.0\GerenciadorDeHabitos.pdb
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Pratica\GerenciadorDeHabitos\obj\Debug\net9.0\GerenciadorDeHabitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Pratica\GerenciadorDeHabitos\obj\Debug\net9.0\GerenciadorDeHabitos.AssemblyInfoInputs.cache
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Pratica\GerenciadorDeHabitos\obj\Debug\net9.0\GerenciadorDeHabitos.AssemblyInfo.cs
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Pratica\GerenciadorDeHabitos\obj\Debug\net9.0\GerenciadorDeHabitos.csproj.CoreCompileInputs.cache
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Pratica\GerenciadorDeHabitos\obj\Debug\net9.0\GerenciadorDeHabitos.sourcelink.json
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Pratica\GerenciadorDeHabitos\obj\Debug\net9.0\GerenciadorDeHabitos.dll
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Pratica\GerenciadorDeHabitos\obj\Debug\net9.0\refint\GerenciadorDeHabitos.dll
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Pratica\GerenciadorDeHabitos\obj\Debug\net9.0\GerenciadorDeHabitos.pdb
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Pratica\GerenciadorDeHabitos\obj\Debug\net9.0\GerenciadorDeHabitos.genruntimeconfig.cache
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Pratica\GerenciadorDeHabitos\obj\Debug\net9.0\ref\GerenciadorDeHabitos.dll
