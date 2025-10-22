@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GerenciadorDeHabitos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4abd2c2ee49c8115579d8a3d1dd2f644255d7dfe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4dd9320173d0ae654c636a2129e253a7b49c27db")]
 [assembly: System.Reflection.AssemblyProductAttribute("GerenciadorDeHabitos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GerenciadorDeHabitos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
