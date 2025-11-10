@@ -1,0 +1,15 @@
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Projetos\AutoClicker1\bin\Debug\net9.0-windows\AutoClicker1.exe
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Projetos\AutoClicker1\bin\Debug\net9.0-windows\AutoClicker1.deps.json
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Projetos\AutoClicker1\bin\Debug\net9.0-windows\AutoClicker1.runtimeconfig.json
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Projetos\AutoClicker1\bin\Debug\net9.0-windows\AutoClicker1.dll
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Projetos\AutoClicker1\bin\Debug\net9.0-windows\AutoClicker1.pdb
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Projetos\AutoClicker1\obj\Debug\net9.0-windows\AutoClicker1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Projetos\AutoClicker1\obj\Debug\net9.0-windows\AutoClicker1.AssemblyInfoInputs.cache
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Projetos\AutoClicker1\obj\Debug\net9.0-windows\AutoClicker1.AssemblyInfo.cs
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Projetos\AutoClicker1\obj\Debug\net9.0-windows\AutoClicker1.csproj.CoreCompileInputs.cache
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Projetos\AutoClicker1\obj\Debug\net9.0-windows\AutoClicker1.sourcelink.json
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Projetos\AutoClicker1\obj\Debug\net9.0-windows\AutoClicker1.dll
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Projetos\AutoClicker1\obj\Debug\net9.0-windows\refint\AutoClicker1.dll
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Projetos\AutoClicker1\obj\Debug\net9.0-windows\AutoClicker1.pdb
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Projetos\AutoClicker1\obj\Debug\net9.0-windows\AutoClicker1.genruntimeconfig.cache
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\C#\Projetos\AutoClicker1\obj\Debug\net9.0-windows\ref\AutoClicker1.dll

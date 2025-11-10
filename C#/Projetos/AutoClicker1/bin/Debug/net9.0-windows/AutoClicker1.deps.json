@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "AutoClicker1/1.0.0": {
+        "runtime": {
+          "AutoClicker1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AutoClicker1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
