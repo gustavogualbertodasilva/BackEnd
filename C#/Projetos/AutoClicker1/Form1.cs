@@ -7,7 +7,7 @@ namespace AutoClicker1
 {
     public partial class Form1 : Form
     {
-        private System.Windows.Forms.Timer updateTimer;
+        private System.Windows.Forms.Timer? updateTimer;
         private CancellationTokenSource? cts = null;
 
         [DllImport("user32.dll")]
@@ -16,15 +16,16 @@ namespace AutoClicker1
         private const uint MOUSEEVENTF_LEFTUP = 0x0004;
 
         public static decimal cps = 1;
-        private Button onButton;
-        private Button okButton;
-        private NumericUpDown cpsInput;
+        private Button? onButton;
+        private Button? okButton;
+        private NumericUpDown? cpsInput;
         private bool autoClickAtivo = false;
+        private TextBox? hotkeyBox;
+        private string hotkeyString = "";
 
         public static void AutoClick(CancellationToken token)
         {
             Thread.Sleep(500);
-            
 
             while (!token.IsCancellationRequested)
             {
@@ -67,44 +68,41 @@ namespace AutoClicker1
             cpsInput.ValueChanged += CpsInput_ValueChanged;
             this.Controls.Add(cpsInput);
 
-            onButton = new Button
+            hotkeyBox = new TextBox
             {
-                Text = "ON",
-                Left = 250,
-                Top = 10,
-                Width = 40,
-                Height = 40
+                ReadOnly = true,
+                Left = 130,
+                Top = 18,
+                Width = 120,
+                Text = "Definir tecla..."
             };
-            onButton.Click += OnButton_Click;
-            this.Controls.Add(onButton);
+            hotkeyBox.Click += HotkeyBox_Click;
+            this.Controls.Add(hotkeyBox);
+        }
 
+        private void HotkeyBox_Click(object? sender, EventArgs e)
+        {
+            using (FormHotkeyCapture capture = new FormHotkeyCapture())
+            {
+                if (capture.ShowDialog() == DialogResult.OK)
+                {
+                    string combo = "";
+                    if (capture.CtrlPressed) combo += "Ctrl + ";
+                    if (capture.AltPressed) combo += "Alt + ";
+                    if (capture.ShiftPressed) combo += "Shift + ";
 
+                    combo += capture.CapturedKey.ToString();
+
+                    hotkeyString = combo;
+                    if (hotkeyBox != null)
+                        hotkeyBox.Text = hotkeyString;
+                }
+            }
         }
 
         private void CpsInput_ValueChanged(object? sender, EventArgs e)
         {
-            cps = cpsInput.Value;
-        }
-
-        private void OnButton_Click(object sender, EventArgs e)
-        {
-            cps = cpsInput.Value;
-            if (!autoClickAtivo)
-            {
-                autoClickAtivo = true;
-                onButton.Text = "OFF";
-                cts = new CancellationTokenSource();
-                var token = cts.Token;
-                Thread t = new Thread(() => AutoClick(token));
-                t.IsBackground = true;
-                t.Start();
-            }
-            else
-            {
-                autoClickAtivo = false;
-                onButton.Text = "ON";
-                cts?.Cancel();
-            }
+            cps = cpsInput!.Value;
         }
     }
 }
