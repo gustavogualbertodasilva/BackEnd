@@ -1,0 +1,15 @@
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\WinForms\Exercicios\Exercicio_001\bin\Debug\net9.0-windows\Exercicio_001.exe
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\WinForms\Exercicios\Exercicio_001\bin\Debug\net9.0-windows\Exercicio_001.deps.json
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\WinForms\Exercicios\Exercicio_001\bin\Debug\net9.0-windows\Exercicio_001.runtimeconfig.json
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\WinForms\Exercicios\Exercicio_001\bin\Debug\net9.0-windows\Exercicio_001.dll
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\WinForms\Exercicios\Exercicio_001\bin\Debug\net9.0-windows\Exercicio_001.pdb
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\WinForms\Exercicios\Exercicio_001\obj\Debug\net9.0-windows\Exercicio_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\WinForms\Exercicios\Exercicio_001\obj\Debug\net9.0-windows\Exercicio_001.AssemblyInfoInputs.cache
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\WinForms\Exercicios\Exercicio_001\obj\Debug\net9.0-windows\Exercicio_001.AssemblyInfo.cs
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\WinForms\Exercicios\Exercicio_001\obj\Debug\net9.0-windows\Exercicio_001.csproj.CoreCompileInputs.cache
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\WinForms\Exercicios\Exercicio_001\obj\Debug\net9.0-windows\Exercicio_001.sourcelink.json
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\WinForms\Exercicios\Exercicio_001\obj\Debug\net9.0-windows\Exercicio_001.dll
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\WinForms\Exercicios\Exercicio_001\obj\Debug\net9.0-windows\refint\Exercicio_001.dll
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\WinForms\Exercicios\Exercicio_001\obj\Debug\net9.0-windows\Exercicio_001.pdb
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\WinForms\Exercicios\Exercicio_001\obj\Debug\net9.0-windows\Exercicio_001.genruntimeconfig.cache
+C:\Users\margb\Desktop\Programacao_estudos\BackEnd\WinForms\Exercicios\Exercicio_001\obj\Debug\net9.0-windows\ref\Exercicio_001.dll
